@@ -6,4 +6,4 @@
 #
 # QT_QPA_PLATFORMTHEME=qt5ct
 QT_QPA_PLATFORMTHEME=gtk2
-BROWSER=waterfox-g3
+BROWSER=waterfox-g4
